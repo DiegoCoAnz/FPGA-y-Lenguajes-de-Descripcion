@@ -1,6 +1,6 @@
 --Autor: 	Coca, Diego
 --Materia: 	Diseño digital con FPGAs
---Profesor: Dr.Cayssials, Ricardo
+
 
 --Proyecto: Comparador_4IN_1OUT
 
