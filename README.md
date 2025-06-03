@@ -15,6 +15,10 @@ Simulation: Quartus Integrated Waveform Simulator
 
 Design Assets: RTL code, functional simulation, and schematic/block diagrams
 
+## Recursos
+- [Digital Design Principles And Practices - Wakerly ]
+
+
 
 ## 🚀 Work in Progress
 This repository will be updated progressively with new lab exercises, personal extensions, and documentation as I continue advancing in FPGA development.
